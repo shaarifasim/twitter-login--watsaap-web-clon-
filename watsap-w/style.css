@@ -1,0 +1,116 @@
+.back-top{
+    background-color: #009688;
+    height: 25vh;
+}
+.back-bottom{
+    background-color: #d9dbd5;
+    height: 90vh;
+}
+.main-container{
+    position: relative;
+
+}
+.front-container{
+
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+}
+.front-container1{
+    box-shadow: 4px 4px 4px 4px grey;
+
+    position: absolute;
+    top:30px;
+    left: 0;
+    right: 0;
+}
+.chat-top{
+    background-color: #ededed;
+    min-height: 50px;
+}
+.chat-top-left{
+    
+    border-right: 2px solid grey;
+}
+.profile-img{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.top-icons{
+    float: right;
+    margin-top: 10px;
+    
+}
+.contacts{
+    background-color: white;
+    min-height: 600px;
+}
+.contact-table-scroll{
+    overflow-y: scroll;
+    height: 600px;
+}
+.message-table-scroll{
+    overflow-y: scroll;
+    height: 550px;
+}
+.text{
+    margin-left: -4%;
+}
+.msg-icons{
+    margin-left: 20px;
+    padding-left: 4px;
+}
+.msg-area{
+    background-color: #ededed;
+    min-height: 50px;
+}
+.send-btn{
+    padding-left: 8px;
+}
+.chat-box>span{
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 2px;
+    color: white;
+    background-color: grey;
+    box-shadow: 2px 2px;
+
+}
+.chat-box-reply>span{
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 2px;
+    color: white;
+    background-color: #009688;
+    box-shadow: 2px 2px;
+    float: right;
+
+}
+.chat-box-time>small{
+    float: right;
+    box-shadow: 2px 2px;
+    background-color: rgb(208, 198, 178);
+    border-radius: 8px;
+    font-style: italic;
+    font-size: x-small;
+    
+
+}
+.chat-box-time-reply>small{
+    font-style: italic;
+    font-size: x-small;
+    float: left;
+    box-shadow: 2px 2px;
+    background-color: rgb(208, 198, 178);
+    border-radius: 8px;
+    margin-right: 20px;
+
+}
+
+    
+      
+   
+
